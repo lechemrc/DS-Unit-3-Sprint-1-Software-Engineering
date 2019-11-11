@@ -262,9 +262,22 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  
+- *ANSWER* An important part of code review is ensuring that the code is clean and
+  efficient code. I really appreciate when others help me simplify my code, especially
+  when it comes to if the code is cheap or expensive. I also really try to pay attention
+  to the clarity of the code, meaning, did they explain their functions? I think readability
+  is a key component to good code and I appreciate when others help me clarify as well.
+  
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+  
+- *ANSWER* A container allows you to reproduce the same exact environment over and over
+  again, or even test specific environments to see if your code functions as designed.
+  It's a valuable tool in deploying code as well, in that it can increase functionality 
+  by providing execution on a specific environment instead of individual user computers.
+  You can set the proper environment for you code or packages that way. 
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
