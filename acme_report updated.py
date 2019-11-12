@@ -24,9 +24,9 @@ def generate_products(num_products=30):
 def inventory_report(products):
     '''Outputs the inventory report based on the general report function'''
     names = []
-    avg_price = []
-    avg_weight = []
-    avg_flammability = []
+    prices = []
+    weights = []
+    flames = []
 
     for product in products:
         names.append(product[0])
